@@ -2,7 +2,9 @@
 
 ## What is this?
 
-Clima is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Rio? Clima is here to help. Weather apps are so popular that they get their own category in the App Store.
+Clima is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Rio? Clima is here to help.
+
+![clima](https://user-images.githubusercontent.com/21090832/93294621-e4e07f00-f79f-11ea-8698-7b95db95ffab.gif)
 
 ## Learned
 
